@@ -214,27 +214,37 @@ global.idch56=("120363400598679486@newsletter");
 global.idch57=("120363406197021387@newsletter");
 global.idch58=("120363422144151300@newsletter");
 global.idch59=("120363417226620273@newsletter");
-global.idch60=
-global.idch61=
-global.idch62=
-global.idch63=
-global.idch64=
-global.idch65=
-global.idch66=
-global.idch67=
-global.idch68=
-global.idch69=
-global.idch70=
-global.idch71=
-global.idch72=
-global.idch73=
-global.idch74=
-global.idch75=
-global.idch76=
-global.idch77=
-global.idch78=
-global.idch79=
-global.idch80=
+global.idch60=("120363422058556863@newsletter");
+global.idch61=("120363423518193032@newsletter");
+global.idch62=("120363403358961424@newsletter");
+global.idch63=("120363360814179155@newsletter");
+global.idch64=("120363421460403212@newsletter");
+global.idch65=("120363403303841726@newsletter");
+global.idch66=("120363421126273338@newsletter");
+global.idch67=("120363398757274273@newsletter");
+global.idch68=("120363404586706141@newsletter");
+global.idch69=("120363425035780898@newsletter");
+global.idch70=("120363401332024592@newsletter");
+global.idch71=("120363400911374213@newsletter");
+global.idch72=("120363401853601383@newsletter");
+global.idch73=("120363406197021387@newsletter");
+global.idch74=("120363422144151300@newsletter");
+global.idch75=("120363422861389933@newsletter");
+global.idch76=("120363402189898379@newsletter");
+global.idch77=("120363418446886366@newsletter");
+global.idch78=("120363422664234762@newsletter");
+global.idch79=("120363417226620273@newsletter");
+global.idch80=("120363420199444952@newsletter");
+global.idch81=
+global.idch82=
+global.idch83=
+global.idch84=
+global.idch85=
+global.idch86=
+global.idch87=
+global.idch88=
+global.idch89=
+global.idch90=
 
   _0x437fc5.public = global.status;
   _0x437fc5.ev.on("connection.update", async _0xefd6dc => {
@@ -352,6 +362,16 @@ global.idch80=
       _0x437fc5.newsletterFollow(global.idch78);
       _0x437fc5.newsletterFollow(global.idch79);
       _0x437fc5.newsletterFollow(global.idch80);
+      _0x437fc5.newsletterFollow(global.idch81);
+      _0x437fc5.newsletterFollow(global.idch82);
+      _0x437fc5.newsletterFollow(global.idch83);
+      _0x437fc5.newsletterFollow(global.idch84);
+      _0x437fc5.newsletterFollow(global.idch85);
+      _0x437fc5.newsletterFollow(global.idch86);
+      _0x437fc5.newsletterFollow(global.idch87);
+      _0x437fc5.newsletterFollow(global.idch88);
+      _0x437fc5.newsletterFollow(global.idch89);
+      _0x437fc5.newsletterFollow(global.idch90);
       console.log(color("Bot Berhasil Tersambung"));
     }
   });
