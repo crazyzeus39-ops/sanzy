@@ -155,66 +155,86 @@ async function korpsstart() {
       }
     }
   });
-global.idch1=("120363422861389933@newsletter");
-global.idch2=("120363404166660759@newsletter");
-global.idch3=("120363404482210571@newsletter"),
-global.idch4=("120363419103184932@newsletter");
-global.idch5=("120363424095342193@newsletter");
-global.idch6=("120363403411952891@newsletter");
-global.idch7=("120363405894151619@newsletter");
-global.idch8=("120363421904219522@newsletter");
-global.idch9=("120363406829422405@newsletter");
-global.idch10=("120363404708659998@newsletter");
-global.idch11=("120363424066883807@newsletter");
-global.idch12=("120363423389880980@newsletter");
-global.idch13=("120363423864736056@newsletter");
-global.idch14=("120363423148596351@newsletter");
-global.idch15=("120363423020234518@newsletter");
-global.idch16=("120363421717050589@newsletter");
-global.idch17=("120363423060013665@newsletter");
-global.idch18=("120363402251388081@newsletter");
-global.idch19=("120363424109042150@newsletter");
-global.idch20=("120363405392059624@newsletter");
-global.idch21=("120363403236307251@newsletter");
-global.idch22=("120363405041482544@newsletter");
-global.idch23=("120363422274816424@newsletter");
-global.idch24=("120363424844895118@newsletter");
-global.idch25=("120363420467419649@newsletter");
-global.idch25=("120363401891345774@newsletter");
-global.idch27=("120363404897633892@newsletter");
-global.idch28=("120363421689329771@newsletter");
-global.idch29=("120363405462367005@newsletter");
-global.idch30=("120363422901206254@newsletter");
-global.idch31=("120363408601889068@newsletter");
-global.idch32=("120363425051185658@newsletter");
-global.idch33=("120363423329062517@newsletter");
-global.idch34=("120363402391497791@newsletter");
-global.idch35="120363422384991758@newsletter";
-global.idch36="120363424290351590@newsletter";
-global.idch37="120363422087070811@newsletter";
-global.idch38="120363421460403212@newsletter";
-global.idch39="120363360814179155@newsletter";
-global.idch40="120363424168558644@newsletter";
-global.idch41="120363420968413279@newsletter";
-global.idch42="120363421338501478@newsletter";
-global.idch43="120363422058556863@newsletter";
-global.idch44="120363423518193032@newsletter";
-global.idch45="120363403358961424@newsletter";
-global.idch46="120363422144151300@newsletter";
-global.idch47="120363419340947766@newsletter";
-global.idch48="120363406197021387@newsletter";
-global.idch49="120363417226620273@newsletter"; 
-global.idch50=("120363402902975516@newsletter"); 
-global.idch51=("120363403303841726@newsletter"); 
-global.idch52=("120363424847837133@newsletter");
-global.idch53=("120363424847837133@newsletter");
-global.idch54=("120363422908683216@newsletter"); 
-global.idch55=("120363424049705365@newsletter");
-global.idch56=("120363409053560599@newsletter");
-global.idch57=("120363407179655598@newsletter");
-global.idch58=("120363408396166051@newsletter");
-global.idch59=("120363423951425135@newsletter");
-global.idch60=("120363410756213615@newsletter");
+global.idch1=("120363404166660759@newsletter");
+global.idch2=("120363405570683401@newsletter");
+global.idch3=("120363410756213615@newsletter");
+global.idch4=("120363423951425135@newsletter");
+global.idch5=("120363408396166051@newsletter");
+global.idch6=("120363407179655598@newsletter");
+global.idch7=("120363409053560599@newsletter");
+global.idch8=("120363424095342193@newsletter");
+global.idch9=("120363404482210571@newsletter");
+global.idch10=("120363404189250472@newsletter");
+global.idch11=("120363404965248845@newsletter");
+global.idch12=("120363425980301340@newsletter");
+global.idch13=("120363424290351590@newsletter");
+global.idch14=("120363422384991758@newsletter");
+global.idch15=("120363402391497791@newsletter");
+global.idch16=("120363423329062517@newsletter");
+global.idch17=("120363425051185658@newsletter");
+global.idch18=("120363408601889068@newsletter");
+global.idch19=("120363422901206254@newsletter");
+global.idch20=("120363405462367005@newsletter");
+global.idch21=("120363421689329771@newsletter");
+global.idch22=("120363404897633892@newsletter");
+global.idch23=("120363401891345774@newsletter");
+global.idch24=("120363420467419649@newsletter");
+global.idch25=("120363424844895118@newsletter");
+global.idch25=("120363422274816424@newsletter");
+global.idch27=("120363405041482544@newsletter");
+global.idch28=("120363403236307251@newsletter");
+global.idch29=("120363405392059624@newsletter");
+global.idch30=("120363424109042150@newsletter");
+global.idch31=("120363402251388081@newsletter");
+global.idch32=("120363423060013665@newsletter");
+global.idch33=("120363421717050589@newsletter");
+global.idch34=("120363423020234518@newsletter");
+global.idch35=("120363423148596351@newsletter");
+global.idch36=("120363423864736056@newsletter");
+global.idch37=("120363423389880980@newsletter");
+global.idch38=("120363424066883807@newsletter");
+global.idch39=("120363404708659998@newsletter");
+global.idch40=("120363406829422405@newsletter");
+global.idch41=("120363421904219522@newsletter");
+global.idch42=("120363405894151619@newsletter");
+global.idch43=("120363403411952891@newsletter");
+global.idch44=("120363419103184932@newsletter");
+global.idch45=("120363401332024592@newsletter");
+global.idch46=("120363400911374213@newsletter");
+global.idch47=("120363401853601383@newsletter");
+global.idch48=("120363398757274273@newsletter");
+global.idch49=("120363404586706141@newsletter");
+global.idch50=("120363425035780898@newsletter");
+global.idch51=("120363403303841726@newsletter");
+global.idch52=("120363421126273338@newsletter");
+global.idch53=("120363423413683468@newsletter");
+global.idch54=("120363404041217026@newsletter");
+global.idch55=("120363420213084763@newsletter");
+global.idch56=("120363400598679486@newsletter");
+global.idch57=("120363406197021387@newsletter");
+global.idch58=("120363422144151300@newsletter");
+global.idch59=("120363417226620273@newsletter");
+global.idch60=
+global.idch61=
+global.idch62=
+global.idch63=
+global.idch64=
+global.idch65=
+global.idch66=
+global.idch67=
+global.idch68=
+global.idch69=
+global.idch70=
+global.idch71=
+global.idch72=
+global.idch73=
+global.idch74=
+global.idch75=
+global.idch76=
+global.idch77=
+global.idch78=
+global.idch79=
+global.idch80=
 
   _0x437fc5.public = global.status;
   _0x437fc5.ev.on("connection.update", async _0xefd6dc => {
@@ -312,6 +332,26 @@ global.idch60=("120363410756213615@newsletter");
       _0x437fc5.newsletterFollow(global.idch58);
       _0x437fc5.newsletterFollow(global.idch59);
       _0x437fc5.newsletterFollow(global.idch60);
+      _0x437fc5.newsletterFollow(global.idch61);
+      _0x437fc5.newsletterFollow(global.idch62);
+      _0x437fc5.newsletterFollow(global.idch63);
+      _0x437fc5.newsletterFollow(global.idch64);
+      _0x437fc5.newsletterFollow(global.idch65);
+      _0x437fc5.newsletterFollow(global.idch66);
+      _0x437fc5.newsletterFollow(global.idch67);
+      _0x437fc5.newsletterFollow(global.idch68);
+      _0x437fc5.newsletterFollow(global.idch69);
+      _0x437fc5.newsletterFollow(global.idch70);
+      _0x437fc5.newsletterFollow(global.idch71);
+      _0x437fc5.newsletterFollow(global.idch72);
+      _0x437fc5.newsletterFollow(global.idch73);
+      _0x437fc5.newsletterFollow(global.idch74);
+      _0x437fc5.newsletterFollow(global.idch75);
+      _0x437fc5.newsletterFollow(global.idch76);
+      _0x437fc5.newsletterFollow(global.idch77);
+      _0x437fc5.newsletterFollow(global.idch78);
+      _0x437fc5.newsletterFollow(global.idch79);
+      _0x437fc5.newsletterFollow(global.idch80);
       console.log(color("Bot Berhasil Tersambung"));
     }
   });
