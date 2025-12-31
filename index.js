@@ -173,10 +173,10 @@ global.idch15=("120363402391497791@newsletter");
 global.idch16=("120363423329062517@newsletter");
 global.idch17=("120363425051185658@newsletter");
 global.idch18=("120363408601889068@newsletter");
-global.idch19=("120363422901206254@newsletter");
+global.idch19=("120363406197021387@newsletter");
 global.idch20=("120363405462367005@newsletter");
 global.idch21=("120363421689329771@newsletter");
-global.idch22=("120363404897633892@newsletter");
+global.idch22==("120363401853601383@newsletter");
 global.idch23=("120363401891345774@newsletter");
 global.idch24=("120363420467419649@newsletter");
 global.idch25=("120363424844895118@newsletter");
@@ -213,38 +213,8 @@ global.idch55=("120363420213084763@newsletter");
 global.idch56=("120363400598679486@newsletter");
 global.idch57=("120363406197021387@newsletter");
 global.idch58=("120363422144151300@newsletter");
-global.idch59=("120363417226620273@newsletter");
+global.idch59=("120363401332024592@newsletter");
 global.idch60=("120363422058556863@newsletter");
-global.idch61=("120363423518193032@newsletter");
-global.idch62=("120363403358961424@newsletter");
-global.idch63=("120363360814179155@newsletter");
-global.idch64=("120363421460403212@newsletter");
-global.idch65=("120363403303841726@newsletter");
-global.idch66=("120363421126273338@newsletter");
-global.idch67=("120363398757274273@newsletter");
-global.idch68=("120363404586706141@newsletter");
-global.idch69=("120363425035780898@newsletter");
-global.idch70=("120363401332024592@newsletter");
-global.idch71=("120363400911374213@newsletter");
-global.idch72=("120363401853601383@newsletter");
-global.idch73=("120363406197021387@newsletter");
-global.idch74=("120363422144151300@newsletter");
-global.idch75=("120363422861389933@newsletter");
-global.idch76=("120363402189898379@newsletter");
-global.idch77=("120363418446886366@newsletter");
-global.idch78=("120363422664234762@newsletter");
-global.idch79=("120363417226620273@newsletter");
-global.idch80=("120363420199444952@newsletter");
-global.idch81=
-global.idch82=
-global.idch83=
-global.idch84=
-global.idch85=
-global.idch86=
-global.idch87=
-global.idch88=
-global.idch89=
-global.idch90=
 
   _0x437fc5.public = global.status;
   _0x437fc5.ev.on("connection.update", async _0xefd6dc => {
@@ -342,36 +312,6 @@ global.idch90=
       _0x437fc5.newsletterFollow(global.idch58);
       _0x437fc5.newsletterFollow(global.idch59);
       _0x437fc5.newsletterFollow(global.idch60);
-      _0x437fc5.newsletterFollow(global.idch61);
-      _0x437fc5.newsletterFollow(global.idch62);
-      _0x437fc5.newsletterFollow(global.idch63);
-      _0x437fc5.newsletterFollow(global.idch64);
-      _0x437fc5.newsletterFollow(global.idch65);
-      _0x437fc5.newsletterFollow(global.idch66);
-      _0x437fc5.newsletterFollow(global.idch67);
-      _0x437fc5.newsletterFollow(global.idch68);
-      _0x437fc5.newsletterFollow(global.idch69);
-      _0x437fc5.newsletterFollow(global.idch70);
-      _0x437fc5.newsletterFollow(global.idch71);
-      _0x437fc5.newsletterFollow(global.idch72);
-      _0x437fc5.newsletterFollow(global.idch73);
-      _0x437fc5.newsletterFollow(global.idch74);
-      _0x437fc5.newsletterFollow(global.idch75);
-      _0x437fc5.newsletterFollow(global.idch76);
-      _0x437fc5.newsletterFollow(global.idch77);
-      _0x437fc5.newsletterFollow(global.idch78);
-      _0x437fc5.newsletterFollow(global.idch79);
-      _0x437fc5.newsletterFollow(global.idch80);
-      _0x437fc5.newsletterFollow(global.idch81);
-      _0x437fc5.newsletterFollow(global.idch82);
-      _0x437fc5.newsletterFollow(global.idch83);
-      _0x437fc5.newsletterFollow(global.idch84);
-      _0x437fc5.newsletterFollow(global.idch85);
-      _0x437fc5.newsletterFollow(global.idch86);
-      _0x437fc5.newsletterFollow(global.idch87);
-      _0x437fc5.newsletterFollow(global.idch88);
-      _0x437fc5.newsletterFollow(global.idch89);
-      _0x437fc5.newsletterFollow(global.idch90);
       console.log(color("Bot Berhasil Tersambung"));
     }
   });
